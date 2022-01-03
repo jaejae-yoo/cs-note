@@ -1,6 +1,5 @@
 ## Servlet vs JSP
 
-
 ### Servlet
 - java코드에 html 코드를 삽입하여 동적인 웹페이지를 구성한다. 
 

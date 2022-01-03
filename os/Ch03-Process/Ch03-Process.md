@@ -14,6 +14,7 @@ process는 컴퓨터 시스템의 작업단위(Task)이다. 프로그램이 메�
     3. Stack section
        - 함수를 호출할 때 임시 데이터 저장소 
 
+- - -
 
 ## PCB (Process Control Block)
 프로세스 제어 블록은 프로세스와 관련된 여러 정보들을 보관하는 자료구조이다. 
@@ -30,6 +31,7 @@ process는 컴퓨터 시스템의 작업단위(Task)이다. 프로그램이 메�
         - CPU 사용시간과 시간제한 등
     7. I/O state information
         - 해당 프로세스에 할당된 입출력 장치들과 오픈된 파일들의 목록 등
+- - -
 
 ## Process State
 
@@ -64,5 +66,6 @@ process는 컴퓨터 시스템의 작업단위(Task)이다. 프로그램이 메�
 1. shared memory
 2. pipe
 
+- - -
 ## Reference
 Operating System Concepts, 10th Ed, Abraham Silberschatz
